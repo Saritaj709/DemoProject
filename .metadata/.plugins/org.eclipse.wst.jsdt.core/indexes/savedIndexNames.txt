@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/home/bridgelabz/demo/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+523651712.index
